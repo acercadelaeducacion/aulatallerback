@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://acercadelaeducacion.github.io/aulataller/sitemap.xml 
