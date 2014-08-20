@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Aula Taller]]></title>
   <link href="http://acercadelaeducacion.github.io/aulataller/atom.xml" rel="self"/>
   <link href="http://acercadelaeducacion.github.io/aulataller/"/>
-  <updated>2014-08-20T20:42:10-03:00</updated>
+  <updated>2014-08-20T20:57:13-03:00</updated>
   <id>http://acercadelaeducacion.github.io/aulataller/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Alvar]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
