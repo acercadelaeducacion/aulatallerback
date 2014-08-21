@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Aula Taller]]></title>
-  <link href="http://acercadelaeducacion.github.io/aulataller/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Actividades | Aula Taller]]></title>
+  <link href="http://acercadelaeducacion.github.io/aulataller/blog/categories/actividades/atom.xml" rel="self"/>
   <link href="http://acercadelaeducacion.github.io/aulataller/"/>
   <updated>2014-08-20T21:08:30-03:00</updated>
   <id>http://acercadelaeducacion.github.io/aulataller/</id>
