@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Aula Taller]]></title>
-  <link href="http://acercadelaeducacion.github.io/aulataller/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Juegos | Aula Taller]]></title>
+  <link href="http://acercadelaeducacion.github.io/aulataller/blog/categories/juegos/atom.xml" rel="self"/>
   <link href="http://acercadelaeducacion.github.io/aulataller/"/>
   <updated>2014-08-21T12:52:00-03:00</updated>
   <id>http://acercadelaeducacion.github.io/aulataller/</id>
@@ -21,19 +21,6 @@
     <content type="html"><![CDATA[<p>Hoy vamos a empezar a jugar para aprender un poco de pensamiento computacional. vayana a la <a href="http://bomberbot.com/">página de BomberBot</a></p>
 
 <p><img src="http://bomberbot.com/assets/img/bot_n_girl.png" alt="" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Haciendo Y Escribiendo Para Hacer]]></title>
-    <link href="http://acercadelaeducacion.github.io/aulataller/blog/2014/08/20/haciendo-y-escribiendo-para-hacer/"/>
-    <updated>2014-08-20T21:04:47-03:00</updated>
-    <id>http://acercadelaeducacion.github.io/aulataller/blog/2014/08/20/haciendo-y-escribiendo-para-hacer</id>
-    <content type="html"><![CDATA[<p><img src="http://media0.giphy.com/media/8Ry7iAVwKBQpG/giphy.gif" alt="Inicio" /></p>
-
-<p>Empecemos a experimentar. Esta es una actividad para hacer un zorro y luego escribir cómo lo hicieron.</p>
-
-<p>Lxs espero <strong><a href="https://amaciel.makes.org/thimble/LTE3MjYwODY5MTI=/haciendo-y-escribiendo-para-hacer">acá</a></strong></p>
 ]]></content>
   </entry>
   
