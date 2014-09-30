@@ -4,7 +4,7 @@
   <title><![CDATA[Aula Taller]]></title>
   <link href="http://acercadelaeducacion.github.io/aulataller/atom.xml" rel="self"/>
   <link href="http://acercadelaeducacion.github.io/aulataller/"/>
-  <updated>2014-09-22T20:10:46-03:00</updated>
+  <updated>2014-09-30T10:28:47-03:00</updated>
   <id>http://acercadelaeducacion.github.io/aulataller/</id>
   <author>
     <name><![CDATA[Alvar]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Que Vamos a Leer Ahora]]></title>
+    <link href="http://acercadelaeducacion.github.io/aulataller/blog/2014/09/29/que-vamos-a-leer-ahora/"/>
+    <updated>2014-09-29T00:00:00-03:00</updated>
+    <id>http://acercadelaeducacion.github.io/aulataller/blog/2014/09/29/que-vamos-a-leer-ahora</id>
+    <content type="html"><![CDATA[<p>Vamos a elegir entre todos que leer. Esta es la primer actividad de este tipo que tienen en clase. Vamos a elegir entre varias opciones y para eso es necesario conocerlas lo mejor posible.</p>
+
+<p>Si bien vamos a leer 1 de los textos entre todos, si se quedan con ganas de leer algún otro seguro podrán hacerlo.</p>
+
+<p>Entonces, estan son las instrucciones para elegir qué vamos a leer</p>
+
+<ol>
+<li>Leer de qué se tratan las tres opciones. Debajo de las instrucciones están los enlaces para cada opción.</li>
+<li>Una vez que leiste las opciones completar el formulario. El enlace está debajo de las opciones.</li>
+</ol>
+
+
+<h2>Opciones de lectura</h2>
+
+<ul>
+<li><a href="https://amaciel.makes.org/thimble/LTExMDA0MTQ3MjA=/momo">Opción 1</a></li>
+<li><a href="https://amaciel.makes.org/thimble/ODEyMjUzNDQw/jim-bot%C3%B3n">Opción 2</a></li>
+<li><a href="https://amaciel.makes.org/thimble/MTQ0OTc4NzY0OA==/los-desmaravilladores">Opción 3</a></li>
+</ul>
+
+
+<h2>Formulario</h2>
+
+<iframe src="https://docs.google.com/forms/d/1D40ewz7Har0CtXuBKnsZVFm6iRu4r9Yzsi93uEeYVjo/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Cargando&#8230;</iframe>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[BomberBot I]]></title>
