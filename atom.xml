@@ -4,7 +4,7 @@
   <title><![CDATA[Aula Taller]]></title>
   <link href="http://acercadelaeducacion.github.io/aulataller/atom.xml" rel="self"/>
   <link href="http://acercadelaeducacion.github.io/aulataller/"/>
-  <updated>2014-09-30T10:54:51-03:00</updated>
+  <updated>2014-09-30T10:55:38-03:00</updated>
   <id>http://acercadelaeducacion.github.io/aulataller/</id>
   <author>
     <name><![CDATA[Alvar]]></name>
@@ -49,7 +49,7 @@
 
 <hr />
 
-<p><img src="http://giphy.com/gifs/wtf-epic-sSDFQDR1ZsZTG%20Imagen:" alt="Imagen:" /></p>
+<p><img src="http://giphy.com/gifs/wtf-epic-sSDFQDR1ZsZTG" title="Fuente de la imagen" alt="Imagen:" /></p>
 ]]></content>
   </entry>
   
